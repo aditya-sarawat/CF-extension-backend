@@ -1,0 +1,14 @@
+{
+  "name": "cp-contest-tracker-backend",
+  "version": "1.0.0",
+  "description": "Proxy backend server for CLIST API requests in CP Contest Tracker extension",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
